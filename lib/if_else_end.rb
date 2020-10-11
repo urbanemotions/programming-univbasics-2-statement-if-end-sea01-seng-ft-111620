@@ -1,4 +1,14 @@
 # Write your solution here
+current_time = Time.now
+even = 2 || 4 || 6 || 8 || 0
+if current_time.to_s = even  
+  puts "Even"
+else
+  puts "Odd"
+end 
+
+
+
 
 
 #this_year = Time.now.year
